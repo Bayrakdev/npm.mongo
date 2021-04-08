@@ -1,0 +1,27 @@
+{
+  "name": "npm.mongo",
+  "version": "3.0.6",
+  "description": "Mongoose Tabanlı Database Modülü.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mongo",
+    "mongoose",
+    "quickmongo",
+    "npm.db",
+    "quick.db",
+    "discord",
+    "bot",
+    "djs",
+    "discord.js",
+    "d.js"
+  ],
+  "author": "bayrak",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "mongoose": "^5.12.3"
+  }
+}
